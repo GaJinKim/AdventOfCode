@@ -1,3 +1,5 @@
+package src;
+
 /**
  * Naive Solution, but gets the job done.
  * 
