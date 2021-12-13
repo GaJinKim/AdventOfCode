@@ -34,6 +34,5 @@ public class Day9 {
                 break;
             }
         }
-
     }
 }
