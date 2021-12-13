@@ -3,7 +3,7 @@
  * 
  * https://adventofcode.com/2020/day/11
  */
-public class Main {
+public class Day11 {
     public static void main(String args[]) {
         char[][] grid = new char[10][10];
         grid[0] = new char[]{'L', '.', 'L', 'L', '.', 'L','L','.','L','L'};
